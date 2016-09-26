@@ -1,6 +1,10 @@
 #Beam Plays Programming
 
-This was the hackgt project that mrmcpowned and I worked on. I'm just forking it over to my personal github
+This was the [hackgt project](http://devpost.com/software/beamplaysbrainfuck) that mrmcpowned and I worked on. I'm just forking it over to my personal github
+
+All the directories needs to be changed since it was made to work on my windows machine and my folder layout. On most windows machines, all you have to do is change the directory. Windows 8 and above users might have to slightly edit the ahk script since the ClassNN for the window box might have changed.
+
+OS X and Linux users need to use create a new script that would behave the same.
 
 The goal of this project was to create an interactive 
 element to esoteric programing using Beam.Pro's interactive API.

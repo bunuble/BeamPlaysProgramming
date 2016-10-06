@@ -20,3 +20,5 @@ of ticker-tape fashion.
 With the language's already high entry point of complexity, it felt like it would have been interesting to see if 
 multiple strangers from the internet could successfully program in brainfuck together. It's with this idea that the 
 project became a reality.
+
+![alt tag](http://i.imgur.com/COepfK7.png)
